@@ -1,0 +1,19 @@
+﻿button id="SubmitButton" 
+button id="Cancel" 
+
+<input id="usernameField" title="User Name" class=".LoginText" onkeypress="return _submitOnEnter(event, 'DefaultFormName');" onchange="" name="usernameField" size="0" type="text">
+
+<input id="passwordField" title="Password" class=".LoginText" onchange="" name="passwordField" size="0" type="password">
+//*[@id="passwordField"]
+
+<button id="SubmitButton" title="登录" class="x7g" style="background-image:url(/OA_HTML/cabo/images/swan/btn-bg1.gif)" onclick="submitForm('DefaultFormName',1,{'_FORM_SUBMIT_BUTTON':'SubmitButton1ggK1zO9'});return false" type="submit">登录</button>
+//*[@id="SubmitButton"]
+
+<img src="/OA_MEDIA/nlszhs_a.gif" title="简体中文" alt="简体中文" border="0">
+//*[@id="langOptionsTable"]/tbody/tr[3]/td[4]/img
+
+
+javascript:document.write("<script type='text/javascript' src='file:///D:\tech\source\web/login.js'></script>");
+
+
+http://stackoverflow.com/questions/12449341/javascript-to-automatically-login-to-third-party-site

@@ -1,0 +1,12 @@
+<!-- Your script page (myscript.html) -->
+<HTML><body>
+<!-- Insert custom message here... -->
+Logging you in......
+<script>
+alert("Here");
+  parent.theirframe.document.getElementById("usernameField").value = "liuwei";
+  parent.theirframe.document.getElementById("passwordField").value = "pass000";
+  parent.theirframe.document.getElementById("SubmitButton").click();
+  alert(parent.theirframe.document.getElementById("usernameField").value);
+</script>
+<body></HTML>
