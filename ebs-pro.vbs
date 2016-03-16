@@ -6,8 +6,8 @@
 '1)
 
 dim url, user, pswd
-user="liuwei"
-pswd="rock000"
+user="liu"
+pswd="xxx"
 url="http://ebs.szgdjt.com:8000/OA_HTML/fndvald.jsp?username="+user+"&password="+pswd+"&langCode=ZHS"
 'url="http://ebs.szgdjt.com:8020/OA_HTML/RF.jsp?function_id=28910&resp_id=-1&resp_appl_id=-1&security_group_id=0&lang_code=ZHS&params=DA0YNVtselNaA5IFP3G0zw&oas=47-Zwvp4Pawyo1xIQml-fQ.."
 urlres="http://ebs.szgdjt.com:8000/OA_HTML/RF.jsp?function_id=261&resp_id=50862&resp_appl_id=20003&security_group_id=0&lang_code=ZHS&oas=Vq_HgvEtAic5YzvnljNBiA.."

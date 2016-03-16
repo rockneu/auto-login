@@ -4,8 +4,8 @@
 
 dim url, user, pswd
 url="http://maximo.sz-mtr.com/maximo/webclient/login/login.jsp?uisessionid=1366092630829"
-user="zhangtingting"
-pswd="7788520"
+user="zhang"
+pswd="xxx"
 
 url="http://maximo.sz-mtr.com/maximo/webclient/login/login.jsp?uisessionid=139873913878&allowinsubframe=false&username=zhangtingting&password=7788520"
 
