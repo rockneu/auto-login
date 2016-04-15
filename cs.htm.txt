@@ -1,0 +1,31 @@
+<FORM id=form1 method=post name=form1 action=Login.aspx?ReturnUrl=%2f>
+<DIV><INPUT id=__VIEWSTATE type=hidden value=/wEPDwUKMTQ4NjQ5MzUxOGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFCWNoa1NldFBhd0N+qxAsI/X3SmTB0puW09zP1yU4v5EdTuDmyd9vnGsY name=__VIEWSTATE> </DIV>
+<DIV><INPUT id=__EVENTVALIDATION type=hidden value=/wEWBQKWmvqQDQLyj/OQAgK3jsrkBALVpPPHCAKC3IeGDNUO9RSD7tpPNeU7m+/p5zw6LLqq9iIuNpWtftK0otvZ name=__EVENTVALIDATION> </DIV>
+<DIV class=container>
+<DIV class=header>
+<H1>登录</H1></DIV>
+<DIV class=content>
+<TABLE cellSpacing=0 cellPadding=0>
+<THEAD>
+<TR>
+<TH></TH>
+<TD style="VERTICAL-ALIGN: top; PADDING-TOP: 16px">请输入您的用户名和密码登录本系统<BR>
+<H2></H2></TD></TR></THEAD>
+<TBODY>
+<TR>
+<TH>用户名： </TH>
+<TD><INPUT id=tbUserName class=login_text value=gubinjie name=tbUserName> </TD></TR>
+<TR>
+<TH>密&nbsp;&nbsp;&nbsp;&nbsp;码： </TH>
+<TD><INPUT id=tbPassword class=login_text type=password value="" name=tbPassword> </TD></TR>
+<TR>
+<TH></TH>
+<TD><INPUT id=chkSetPaw type=checkbox name=chkSetPaw>记住用户密码 </TD></TR>
+<TFOOT>
+<TR>
+<TH></TH>
+<TD><INPUT onclick="return checkValue();" id=btnLogin class=inputbtn type=submit value=登录 name=btnLogin> <INPUT onclick=window.close(); class=inputbtn type=button value=取消> </TD></TR></TFOOT></TABLE></DIV>
+<DIV class=footer>
+<P>Copyright 2012 苏州轨道交通有限公司 技术支持：广州市品高软件开发有限公司 </P></DIV>
+<DIV id=extraDiv1><SPAN></SPAN></DIV>
+<DIV id=extraDiv2><SPAN></SPAN></DIV></DIV></FORM>
