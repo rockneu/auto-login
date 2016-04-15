@@ -10,8 +10,8 @@
 
 Dim str, strEncode
 Dim user, pswd
-user = "liuwei"
-pswd = "rock000"
+user = "abc"
+pswd = "123"
 
 Dim fso, f
 Set fso = CreateObject("Scripting.FileSystemObject")
